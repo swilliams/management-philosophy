@@ -1,5 +1,5 @@
 # Manager Readme
-_Editorial note - “Manager Readme’s” suffers from a poor name. They work when the manager describes their management philosophy — they are not meant to be rules for how to interact with a manager or how to treat/coddle them._
+_Editorial note - “Manager Readme’s” suffers from a poor name in my opinion. They work when the manager describes their management philosophy — they are not meant to be rules for how to interact with a manager or how to treat/coddle them._
 
 ## My bio and some quirks
 Relevant links:
