@@ -66,10 +66,16 @@ One analogy is that I should be building guardrails around your path. You may te
 
 Lastly, you can always ask for more clarity or context. If I haven’t provided enough context, please please please ask for more! 
 
+### Project Management
+I’ve seen nearly every kind of project management philosophy there is. In my opinion there is no silver bullet when it comes to them, and being dogmatic about ‘Agile’ or anything just leads to unnecessary conflict. I view all of those things as tools to be used for the right occasion. Each team and project is different and needs a tailored approach. We’ll work together to figure that out for our teams, and then we’ll evaluate if it’s working and change when appropriate. Per Dave Thomas:
+
+> What to do: Find out where you are.
+> Take a small step towards your goal.
+> Adjust your understanding based on what you learned.
+> 
+> Repeat.
+
 ### Notifications
 Notifications will rule your life if you let them. I tend to be very nitpicky over what push notifications I allow on my phone especially. I only get alerts from Slack if someone mentions me directly. I also get alerts for SMS/iMessages. I do not have alerts for emails, social media, or many of the other common apps. I highly recommend you follow suit.
 
 Please set yourself regular time to rest and recharge. I believe that continual extended hours is not healthy, for a person, or for a business. There may be times when we absolutely have to hit a deadline where extra time may be necessary, but that’ll be rare.
-
-
-
