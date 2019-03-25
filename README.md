@@ -62,7 +62,7 @@ If Rick hadn’t done that, I would not have realized my shortcomings. I won’t
 ### Guardrails and VUCA
 There’s a cute acronym I heard before called VUCA. It stands for Volatility, Uncertainty, Confusion, and Ambiguity. Managers should be removing those, and certainly not introducing them. I agree with that, **but**, a certain amount of ambiguity in your life is a good thing — it makes you better when you navigate through it.
 
-One analogy is that I should be building guardrails around your path. You may teeter around, or even cross lane lines… but you won’t careen off a cliff. The amount ambiguity also depends on how much experience you have too.
+One analogy is that I should be building guardrails around your path. You may teeter around, or even cross lane lines… but you won’t careen off a cliff. The amount of allowable ambiguity also depends on how much experience you have too.
 
 Lastly, you can always ask for more clarity or context. If I haven’t provided enough context, please please please ask for more! 
 
