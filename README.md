@@ -14,7 +14,7 @@ I became a manager because I wanted to build a team and an environment that was 
 
 I am an introvert. I like working with people and being on a team, so sometimes it seems like I’m an extrovert, but I recharge by being by myself. My own version of hell is to be sent to a “networking event” and told to mingle with strangers.
 
-I’ve done various personality tests. My favorite was the [DiSC assessment](https://www.discprofiles.com/blog/2017/03/disc-personality-types/) which labeled me as a [Cd type](https://www.crystalknows.com/disc/cd-personality-type). I tend to be easy going, though when in stressful situations I take more direct control with make decisions faster (for better or worse…). I view personality evaluations as more for personal knowledge and **not** as a crutch or an excuse for bad behavior. If I’m labeled as being un-empathetic, that is something *I* need to work on, *not* something you need to tiptoe around. I’m not a freaking monarch, sheesh. 
+I’ve done various personality tests. My favorite was the [DiSC assessment](https://www.discprofiles.com/blog/2017/03/disc-personality-types/) which labeled me as a [Cd type](https://www.crystalknows.com/disc/cd-personality-type). I tend to be easy going, though when in stressful situations I take more direct control with making decisions faster (for better or worse…). I view personality evaluations as more for personal knowledge and **not** as a crutch or an excuse for bad behavior. If I’m labeled as being un-empathetic, that is something *I* need to work on, *not* something you need to tiptoe around. I’m not a freaking monarch, sheesh. 
 
 ## Let’s talk about you!
 Ok, that was way too much about me.
@@ -26,7 +26,7 @@ This safety is built up over time. It’s kinda like a bank account. Each intera
 How’re we gonna do this? A few ways. 
 
 ### 1:1s
-I love 1:1s. It’s a great opportunity to discuss anything. This could be silly hypothetical questions and ice-breakers, goals and progress, or just stuff like a recent movie you saw. 
+I love a good 1:1. It’s a great opportunity to discuss anything. This could be silly hypothetical questions and ice-breakers, goals and progress, or just stuff like a recent movie you saw. 
 
 These will mostly be driven by you. If I have something important to talk about I’ll bring it up, but otherwise it’s your show. Ideally you’ll add some points to Small Improvements, but time may not be on your side so that’s not mandatory. 
 
