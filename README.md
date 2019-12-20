@@ -6,15 +6,13 @@ Relevant links:
 - [LinkedIn Profile](https://www.linkedin.com/in/scott-williams-3683aa10/)
 - [Personal website](http://swilliams.me) (warning—it’s eclectic)
 
-Hi! I’m Scott. I live in Phoenix, Arizona with my wife and two kids. I’ve been a software developer for about 20 years now (depending on how you want to count jobs during schooling).
+Hi! I’m Scott. I live in Phoenix, Arizona with my wife and two kids. I’ve been in software development for about 20 years now (depending on how you want to count jobs during schooling) and management for the last 5ish.
 
-I spent a good chunk of my career as a consultant, which means that I’ve seen many different technologies, languages, frameworks, and methodologies. Please feel free to hit me up if you have a question about anything — I’ll likely know where to at least look for an answer.
-
-I became a manager because I wanted to build a team and an environment that was awesome. I love seeing people form and do stuff that they wouldn’t have been able to as individuals. 
+I became a manager because I wanted to build a team and an environment that was awesome. I love seeing people come together and do stuff that they wouldn’t have been able to as individuals. 
 
 I am an introvert. I like working with people and being on a team, so sometimes it seems like I’m an extrovert, but I recharge by being by myself. My own version of hell is to be sent to a “networking event” and told to mingle with strangers.
 
-I’ve done various personality tests. My favorite was the [DiSC assessment](https://www.discprofiles.com/blog/2017/03/disc-personality-types/) which labeled me as a [Cd type](https://www.crystalknows.com/disc/cd-personality-type). I tend to be easy going, though when in stressful situations I take more direct control with making decisions faster (for better or worse…). I view personality evaluations as more for personal knowledge and **not** as a crutch or an excuse for bad behavior. If I’m labeled as being un-empathetic, that is something *I* need to work on, *not* something you need to tiptoe around. I’m not a freaking monarch, sheesh. 
+I’ve done various personality tests. My favorite was the [DiSC assessment](https://www.discprofiles.com/blog/2017/03/disc-personality-types/) which labeled me as a [Cd type](https://www.crystalknows.com/disc/cd-personality-type). I tend to be easy going, though when in stressful situations I take more direct control in order to make decisions faster (for better or worse…). I view personality evaluations as more for personal knowledge and **not** as a crutch or an excuse for bad behavior. If I’m labeled as being un-empathetic, that is something *I* need to work on, *not* something you need to tiptoe around. I’m not a freaking monarch, sheesh. 
 
 ## Let’s talk about you!
 Ok, that was way too much about me.
@@ -28,7 +26,7 @@ How’re we gonna do this? A few ways.
 ### 1:1s
 I love a good 1:1. It’s a great opportunity to discuss anything. This could be silly hypothetical questions and ice-breakers, goals and progress, or just stuff like a recent movie you saw. 
 
-These will mostly be driven by you. If I have something important to talk about I’ll bring it up, but otherwise it’s your show. Ideally you’ll add some points to Small Improvements, but time may not be on your side so that’s not mandatory. 
+These will mostly be driven by you. If I have something important to talk about I’ll bring it up, but otherwise it’s your show. Ideally you’ll add some points to Small Improvements before we meet, but time may not be on your side so that’s not mandatory. 
 
 You can and should reach out beyond our 1:1s! I may not be able to respond to a request immediately but I will. If it’s really important, please hit me up repeatedly until you get my attention.
 
@@ -54,9 +52,9 @@ I’ve been on the [receiving](https://blog.swilliams.me/2018/11/18/failure-and-
 #### This goes both ways
 If we work closely together for long enough, I am going to let you down at some point, and I am sorry about that. Even though it may sound daunting I would really really appreciate it if you told me. I can make myself better by remaining accountable to you.
 
-Here’s an anecdote from my past. We were architecting a semi-complex system with a few moving parts. When we were trying to figure out how long it would take to build I had over-simplified it in my head and threw out a number that was lower than what “Greg” had suggested. Then I did the bad manager thing and said “C’mon Greg, it won’t take _that_ long will it?” Of course Greg said no. Long story short, it did take that long. One of my other engineers, “Rick”, pulled me aside and said “You kinda steamrolled Greg back there about the estimate for the thing.” And he was right. I apologized to Greg and have tried to be more conscious about throwing my size around.
+Here’s an anecdote from my past. We were architecting a fairly complex system with a few moving parts. When we were trying to figure out how long it would take to build to set client expectations I had over-simplified it in my head and threw out a number that was lower than what “Greg” had suggested. Then I did the bad manager thing and said “C’mon Greg, it won’t take _that_ long will it?” Of course Greg said no. Long story short, it did take that long. One of my other engineers, “Rick”, pulled me aside and said “You kinda steamrolled Greg back there about the estimate for the thing.” And he was right. I apologized to Greg and have tried to be more conscious about throwing my size around.
 
-If Rick hadn’t done that, I would not have realized my shortcomings. I won’t say I’m perfect, but [I want to get better](https://youtu.be/o5osPtE7kXI).
+If Rick hadn’t done that, I would have missed an important opportunity to get better.
 
 ## The Work
 ### Guardrails and VUCA
@@ -79,3 +77,12 @@ I’ve seen nearly every kind of project management philosophy there is. In my o
 Notifications will rule your life if you let them. I tend to be very nitpicky over what push notifications I allow on my phone especially. I only get alerts from Slack if someone mentions me directly. I also get alerts for SMS/iMessages. I do not have alerts for emails, social media, or many of the other common apps. I highly recommend you follow suit.
 
 Please set yourself regular time to rest and recharge. I believe that continual extended hours is not healthy, for a person, or for a business. There may be times when we absolutely have to hit a deadline where extra time may be necessary, but that’ll be rare.
+
+## My advice to managers new to my team
+Be proactive. Don’t wait for 1:1s to get to know your direct reports. Hit them up on Slack and/or create :donut2: meetings with them. What’s their history? What are their goals? What do they like about Zapier and what drives them crazy? They will teach you far more about your job than I ever could. 
+
+Get to know other managers here too. I highly recommend setting up an informal chat with as many as you can just to hear about what their teams do and how it all fits together. 
+
+I’d also encourage you to expand beyond whatever boundaries you think you have right now. I see a lot of managers focus solely on their own individual team, which while good, puts limits on things. What are those boundaries and how can they be expanded? (This assumes a “good” kind of expansion and not annexing or taking over work from others). 
+
+This ties into my final point. What is your vision for your team and for yourself? If you don’t have those, you should! Where do you want your team to be in a few years time and where do you want yourself to be? Periodically ask yourself if you’re moving in the right direction. 
