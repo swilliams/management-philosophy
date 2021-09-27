@@ -1,88 +1,93 @@
 # Manager Readme
-_Editorial note - “Manager Readme’s” suffers from a poor name in my opinion. They work when the manager describes their management philosophy — they are not meant to be rules for how to interact with a manager or how to treat/coddle them._
 
-## My bio and some quirks
-Relevant links:
+I really like how [Matt Newkirk puts it](https://mattnewkirk.com/2019/01/02/avoiding-mistakes-with-your-manager-readme/). A Manager Readme is for the people who report to the manager. It should: 1) share expectations to reduce their anxiety and 2) build trust as they get to know you.
+
+## Bio
+
+- Age: 40
+- Family: Erica, Rachel, Meredith. We have some fish for "pets" but nothing cuddly.
+- Places lived: Rancho Bernardo, CA -> Scottsdale, AZ -> Tucson, AZ -> Phoenix, AZ
+- Hobbies: Photography, D&D, running (poorly), exploring
+- Games: Currently into Breath of the Wild and Minecraft. Formerly into Mass Effect, Starcraft, various Star Wars games, and older school FPSes.
+- Code: Most familiar with JavaScript/Node/TypeScript, Swift, Ruby, Python, and if you go far enough back a lot of C#.
 - [LinkedIn Profile](https://www.linkedin.com/in/scott-williams-3683aa10/)
-- [Personal website](http://swilliams.me) (warning—it’s eclectic)
 
-Hi! I’m Scott. I live in Phoenix, Arizona with my wife and two kids. I’ve been in software development for about 20 years now (depending on how you want to count jobs during schooling) and management for the last 5ish.
+## Right, but who are you?
 
-I became a manager because I wanted to build a team and an environment that was awesome. I love seeing people come together and do stuff that they wouldn’t have been able to as individuals. 
+Hi! I’m Scott. I live in Phoenix, Arizona with my wife and two kids. I’ve been in software development for about 20 years now and management for the last 7ish. I spent a lot of my career in consulting and have seen just about everything.
 
-I am an introvert. I like working with people and being on a team, so sometimes it seems like I’m an extrovert, but I recharge by being by myself. My own version of hell is to be sent to a “networking event” and told to mingle with strangers.
+I've always loved building things. For the first part of my career that meant working on the code directly. But I also came to love seeing people come together to do the things that they couldn't do individually. That lead me down the path of people management, and I've found just the same amount of satisfaction from that than when I personally made the code work. I've come to really like team dynamics and building high-performing teams.
 
-I’ve done various personality tests. My favorite was the [DiSC assessment](https://www.discprofiles.com/blog/2017/03/disc-personality-types/) which labeled me as a [Cd type](https://www.crystalknows.com/disc/cd-personality-type). I tend to be easy going, though when in stressful situations I take more direct control in order to make decisions faster (for better or worse…). I view personality evaluations as more for personal knowledge and **not** as a crutch or an excuse for bad behavior. If I’m labeled as being un-empathetic, that is something *I* need to work on, *not* something you need to tiptoe around. I’m not a freaking monarch, sheesh. 
+Given that, I'm also an introvert. I like working with people and being on a team, so sometimes it seems like I’m an extrovert, but I need to recharge by being by myself. My own version of hell is to be sent to a “networking event” and told to mingle with strangers.
 
-## Let’s talk about you!
-Ok, that was way too much about me.
+I've been told that I'm very self-aware. This usually means that I have a pretty good sense of how things are going and if they are going well.
 
-One of the most important things I can do is create an environment of psychological safety. This means that my teams need to have the ability to have honest discussions about important things without fear of getting blasted for it. This dovetails nicely with Zapier’s core values.
+## Team Stuff
 
-This safety is built up over time. It’s kinda like a bank account. Each interaction between us has the possibility for me to build a little more trust, or remove it (usually in far bigger quantities). On further thought, that’s a good analogy. I can save up my money a little bit over time, and then in a single bad decision blow it all on a jet ski. 
+Here's what I think it means to have a great team:
 
-How’re we gonna do this? A few ways. 
+### Psychological Safety
 
-### 1:1s
-I love a good 1:1. It’s a great opportunity to discuss anything. This could be silly hypothetical questions and ice-breakers, goals and progress, or just stuff like a recent movie you saw. 
+This means that people on the team should not have to fear reprisal if they screw up or don't always excel. You're safe to be your true authentic self on the team, in fact you're encouraged to do this. How does this happen? It takes a lot of work, and there are no shortcuts. First is trust. Trust takes time to build up. Each interaction we have can result in a little bit of trust built up, or a lot eroded away. Vulnerability helps to create this. I'll be as vulnerable with you all as I can be. To start take a look at the "flaws" section later on in this doc.
 
-These will mostly be driven by you. If I have something important to talk about I’ll bring it up, but otherwise it’s your show. Ideally you’ll add some points to Small Improvements before we meet, but time may not be on your side so that’s not mandatory. 
+Feedback plays a big part in this as well. Not just the feedback itself, but the way it is delivered. I try to give feedback often, whether it's about something smaller or for the bigger things. I view it almost as a habit or rythym.
 
-You can and should reach out beyond our 1:1s! I may not be able to respond to a request immediately but I will. If it’s really important, please hit me up repeatedly until you get my attention.
+[I should note that "feedback" here does not always mean a negative connotation—you should get feedback when you're doing things well! "Hey first_name, I really liked how you did neat_thing, it enables positive_result."]
 
-You can also put time on my calendar. If there’s a space, put a meeting on there. I block out a few hours in the evening for family-time but am otherwise pretty available. And if it’s really important you can override whatever meeting I may have gotten sucked into. 
+On the flipside, I _love_ to get feedback from my reports—I find it to be some of the most valuable stuff I can get.
 
-### Honesty and Transparency
-[I’m big on both of these](https://blog.swilliams.me/2018/12/11/my-recruiting-trick-the-good-the-bad-and-the-middle/). If you ask me a question I will answer it to the best of my capabilities. You may not be privy to certain types of information however. 
+Here’s an anecdote from my past. We were trying to do some rough estimatation on something fairly complex in order to set the client's expectations. I had over-simplified it in my head and threw out a number that was lower than what “Greg” had suggested. Mistake 1: if you're not building it, you shouldn't be estimating it. Then I doubled down and made Mistake 2: I said, “C’mon Greg, it won’t take _that_ long will it?” Ugh. _Of course_ Greg said no to not disagree with his boss. Long story short, it did take that long. One of my senior engineers pulled me aside and said “You kinda steamrolled Greg back there.” He was right. I apologized to Greg and have tried to be more conscious about how I ask questions.
 
-By default I choose to trust people and take them at their word. Yes, I have been bitten by this before, but it remains my policy. I don’t ever want to get into a habit of not trusting my team—that leads to disaster.
+My senior engineer felt comfortable enough to tell me when my performance was off.
 
-If there is ambiguity, I may ask clarifying questions. 
+People are far more motivated to do great things when they have this sense of safety vs motivation through fear.
 
-### Conflict
-We may not see eye to eye on everything. Every situation is different. Sometimes one of us might need to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit). I acknowledge that the psychological size that comes with a title makes things tilted in my favor. Given all of that I make this promise to you: I will always hear you out and try to understand your point of view. If possible I will try to find a compromise in there. But you may not get your way every time, and I will not either.
+### Integrity
 
-### Performance & Feedback
-And yeah, let’s talk about something that might be uncomfortable. Being a human you will go through highs and lows, and that is normal. This might mean that your work suffers. Part of my job is to recognize when you are in a funk and pull you out before it becomes critical. If I see some warning signs I’ll bring it up in a 1:1. 
+I highly value doing the right thing, even if there's no obvious external benefit for doing so. I attempt to be as honest and transparent with my team as I can be, and I hope that you can do the same with me, in fact this is my default mode—I choose to trust people and take them at their word. Yes, I have been bitten by this before (though that's fortunately been rare!), but it remains my policy.
 
-When this happens: Breathe. Don’t panic.
+### Sponsorship
 
-I’ve been on the [receiving](https://blog.swilliams.me/2018/11/18/failure-and-ultimately-fixing-it/) end of this a few times so believe me, I can relate. The good news is that most things are fixable. We’ll talk about it. Maybe you were aware, maybe you weren’t, that’s ok. With an informal discussion like this, we’ll formulate a plan and I will help you through it. If things get better, then we’ll celebrate! If there isn’t improvement we’ll take a more direct approach (that’s outside the scope of this). 
+I want you to succeed! We'll talk about your growth and where you'd like to go. I'll be on the lookout for opportunities that I think would help you move in that direction. I may even nudge you to do something you might find uncomfortable if I think it'll accelerate that progress.
 
-#### This goes both ways
-If we work closely together for long enough, I am going to let you down at some point, and I am sorry about that. Even though it may sound daunting I would really really appreciate it if you told me. I can make myself better by remaining accountable to you.
+### Execution and Delivery
 
-Here’s an anecdote from my past. We were architecting a fairly complex system with a few moving parts. When we were trying to figure out how long it would take to build to set client expectations I had over-simplified it in my head and threw out a number that was lower than what “Greg” had suggested. Then I did the bad manager thing and said “C’mon Greg, it won’t take _that_ long will it?” Of course Greg said no. Long story short, it did take that long. One of my other engineers, “Rick”, pulled me aside and said “You kinda steamrolled Greg back there about the estimate for the thing.” And he was right. I apologized to Greg and have tried to be more conscious about throwing my size around.
+A high performing team ships good stuff and ships it often. I also think that this can happen without burning people out. There are a myriad of tools, processes, and practices out there that purport to be silver bullets for high performing teams. I like some of these things and dislike others. The key is to know how to apply any of them to a team and make sure it is working. To be a little corny, the tools should serve the team, not the other way around. And if something isn't working out, get rid of it and try another.
 
-If Rick hadn’t done that, I would have missed an important opportunity to get better.
+What I value in tools and process:
 
-## The Work
-### Guardrails and VUCA
-There’s a cute acronym I heard before called VUCA. It stands for Volatility, Uncertainty, Confusion, and Ambiguity. Managers should be removing those, and certainly not introducing them. I agree with that, **but**, a certain amount of ambiguity in your life is a good thing — it makes you better when you navigate through it.
+- Clarity. Does it provide it or take it away?
+- Transparency. Does it allow team members and stakeholders to know what is going on without a whole lot of effort?
+- Measurement. Are we getting better? Are we shipping faster with fewer bugs?
+- Friction. The addition of any kind of tool or process introduces some kind of friction. That's ok if it's 1) not a lot, and 2) generates substantially more value than the friction it brings.
 
-One analogy is that I should be building guardrails around your path. You may teeter around, or even cross lane lines… but you won’t careen off a cliff. The amount of allowable ambiguity also depends on how much experience you have too.
-
-Lastly, you can always ask for more clarity or context. If I haven’t provided enough context, please please please ask for more! 
-
-### Project Management
-I’ve seen nearly every kind of project management philosophy there is. In my opinion there is no silver bullet when it comes to them, and being dogmatic about ‘Agile’ or anything just leads to unnecessary conflict. I view all of those things as tools to be used for the right occasion. Each team and project is different and needs a tailored approach. We’ll work together to figure that out for our teams, and then we’ll evaluate if it’s working and change when appropriate. Per Dave Thomas:
+My philosophy is to be a la carte and tailor any approach. I like how Dave Thomas (who knows a thing or two about "agile") puts it:
 
 > What to do: Find out where you are.
 > Take a small step towards your goal.
 > Adjust your understanding based on what you learned.
-> 
+>
 > Repeat.
 
-### Notifications
-Notifications will rule your life if you let them. I tend to be very nitpicky over what push notifications I allow on my phone especially. I only get alerts from Slack if someone mentions me directly. I also get alerts for SMS/iMessages. I do not have alerts for emails, social media, or many of the other common apps. I highly recommend you follow suit.
+## Flaws
 
-Please set yourself regular time to rest and recharge. I believe that continual extended hours is not healthy, for a person, or for a business. There may be times when we absolutely have to hit a deadline where extra time may be necessary, but that’ll be rare.
+I have ADHD, though not so much the hyperactive kind. This wasn't officially diagnosed until recently, but I think it is something I have wrestled with for most of my life, and it got worse during the pandemic. I am currently doing the work to try to overcome this but it does usually rear it's head in a few ways:
 
-## My advice to managers new to my team
-Be proactive. Don’t wait for 1:1s to get to know your direct reports. Hit them up on Slack and/or create :donut2: meetings with them. What’s their history? What are their goals? What do they like about Zapier and what drives them crazy? They will teach you far more about your job than I ever could. 
+- I have a lot of difficulty following along in a complex vocal narrative, especially if it goes off in tangents. My brain will often wander off on its own and I'll realize I completely missed the last minute of what someone was saying.
+- I procrastinate on things, mostly on things that are more administrative in nature.
+- If it's not in my calendar or todoist it might as well not exist. The flip side is that if it is on my calendar, I will pay close attention to it.
 
-Get to know other managers here too. I highly recommend setting up an informal chat with as many as you can just to hear about what their teams do and how it all fits together. 
+I struggle to offer coherent spur-of-the-moment feedback on something. If you ask me to review a document and immediately commentate on it, you might get something worthwhile out of me, but it'll likely only be surface level. If I have some time to read and digest I'll give you something good. This is something that I'd like to get better at, though it doesn't come naturally to me.
 
-I’d also encourage you to expand beyond whatever boundaries you think you have right now. I see a lot of managers focus solely on their own individual team, which while good, puts limits on things. What are those boundaries and how can they be expanded? (This assumes a “good” kind of expansion and not annexing or taking over work from others). 
+I am human. If we work closely together for long enough, I am going to let you down at some point, and I am sorry about that. I would really really appreciate it if you told me though. I can make myself better by remaining accountable to you.
 
-This ties into my final point. What is your vision for your team and for yourself? If you don’t have those, you should! Where do you want your team to be in a few years time and where do you want yourself to be? Periodically ask yourself if you’re moving in the right direction. 
+I feel like I have good intuition. This helps in different ways, but sometimes I over-index on it. This can be overcome by data and first-principles thinking.
+
+## Wrap it up!
+
+Ok, congrats on getting to the end. Here are some other fun facts:
+
+- My first "professional" software job was for a really weird and poorly run startup that tried to get in on one of the first Internet booms. I did a lot of editing perl files live on the production server in order to fix things. Nobody thought this was weird at the time.
+- I've been serious about photography for about 15 years. I like to take portraits as well as landscapes. It's hard to find the time to do a proper outing for picture taking though.
+- I nearly died in a flash flood in the Dominican Republic. Life-tip: don't be downstream and next to a waterfall on a flood plain.
+- I prefer dogs over cats, but they both make me sneeze.
