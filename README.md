@@ -11,19 +11,18 @@ I really like how [Matt Newkirk puts it](https://mattnewkirk.com/2019/01/02/avoi
 - Games: Currently into Breath of the Wild and Minecraft. Formerly into Mass Effect, Starcraft, various Star Wars games, and older school FPSes.
 - Code: Most familiar with JavaScript/Node/TypeScript, Swift, Ruby, Python, and if you go far enough back a lot of C#.
 - [LinkedIn Profile](https://www.linkedin.com/in/scott-williams-3683aa10/)
-- [Personal website](http://swilliams.me) (warning—it’s eclectic)
 
 ## Right, but who are you?
 
 Hi! I’m Scott. I live in Phoenix, Arizona with my wife and two kids. I’ve been in software development for about 20 years now and management for the last 7ish. I spent a lot of my career in consulting and have seen just about everything.
 
-I've always loved building things. For the first part of my career that meant working on the code directly. But I also came to love seeing people come together to do the things that they couldn't do individually. That lead me down the path of people management, and I've found just the same amount of satisfaction from that than when the code worked. I've come to really like team dynamics and building high-performing teams.
+I've always loved building things. For the first part of my career that meant working on the code directly. But I also came to love seeing people come together to do the things that they couldn't do individually. That lead me down the path of people management, and I've found just the same amount of satisfaction from that than when I personally made the code work. I've come to really like team dynamics and building high-performing teams.
 
 Given that, I'm also an introvert. I like working with people and being on a team, so sometimes it seems like I’m an extrovert, but I need to recharge by being by myself. My own version of hell is to be sent to a “networking event” and told to mingle with strangers.
 
 I've been told that I'm very self-aware. This usually means that I have a pretty good sense of how things are going and if they are going well.
 
-## What I value
+## Team Stuff
 
 Here's what I think it means to have a great team:
 
