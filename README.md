@@ -4,7 +4,7 @@ I really like how [Matt Newkirk puts it](https://mattnewkirk.com/2019/01/02/avoi
 
 ## Bio
 
-- Age: 41
+- Age: 42
 - Family: Erica, Rachel, Meredith. We have some fish for "pets" but nothing cuddly.
 - Places lived: Rancho Bernardo, CA -> Scottsdale, AZ -> Tucson, AZ -> Phoenix, AZ
 - Hobbies: Photography, D&D, running (poorly), exploring
